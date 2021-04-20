@@ -8,7 +8,7 @@
   [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/felix.petiz/ "felix.petiz")
 </span>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-xilef&langs_count=10&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-xilef&langs_count=8&layout=compact&theme=dark)
 
 <p align="right">
   Consulte meu currículo: <a href="https://felix-xilef.github.io/Curriculo-FelixPetizBonilho.pdf">Currículo</a>
