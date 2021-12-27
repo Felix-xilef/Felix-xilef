@@ -11,7 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-xilef&langs_count=8&layout=compact&theme=dark)
 
 <p align="right">
-  Consulte meu currículo: <a href="https://felix-xilef.github.io/Curriculo-FelixPetizBonilho.pdf">Currículo</a>
+  Consulte meu currículo: <a href="https://felix-xilef.github.io/assets/Curr%C3%ADculo-FelixPetizBonilho.pdf">Currículo</a>
   <br>
   ou acesse meu site github pages: <a href="https://felix-xilef.github.io/">felix-xilef.github.io</a>
 </p>
