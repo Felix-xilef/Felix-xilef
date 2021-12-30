@@ -1,5 +1,5 @@
 <h1 align="center">🦉 Olá! Eu sou Felix!</h1>
-<p align="center">Me chamo Felix Petiz Bonilho e estou atualmente cursando ensino superior em Análise e Desenvolvimento de Sistemas na Fatec São Caetano do Sul.</p>
+<p align="center">Me chamo Felix Petiz Bonilho, sou formado em Análise e Desenvolvimento de Sistemas pela Fatec São Caetano do Sul e atualmente estou estagiando na equipe de desenvolvimento da empresa Smart Staff</p>
 <span align="center">
 
   [![Github Page Badge](https://img.shields.io/badge/GitHub.io-202020?style=flat&logo=github&logoColor=white)](https://felix-xilef.github.io/ "felix-xilef.github.io")
