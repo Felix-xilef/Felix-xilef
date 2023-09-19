@@ -1,0 +1,96 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="41"
+  height="20"
+  role="img"
+  aria-label="en"
+>
+  <title>
+    en
+  </title>
+
+  <linearGradient
+    id="s"
+    x2="0"
+    y2="100%"
+  >
+    <stop
+      offset="0"
+      stop-color="#bbb"
+      stop-opacity=".1"
+    />
+
+    <stop
+      offset="1"
+      stop-opacity=".1"
+    />
+  </linearGradient>
+
+  <clipPath id="r">
+    <rect
+      width="41"
+      height="20"
+      rx="3"
+      fill="#fff"
+    />
+  </clipPath>
+
+  <g clip-path="url(#r)">
+    <rect
+      width="0"
+      height="20"
+      fill="#555"
+    />
+
+    <rect
+      x="0"
+      width="41"
+      height="20"
+      fill="#202020"
+    />
+
+    <rect
+      width="41"
+      height="20"
+      fill="url(#s)"
+    />
+  </g>
+
+  <g
+    fill="#fff"
+    text-anchor="middle"
+    font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+    text-rendering="geometricPrecision"
+    font-size="110"
+  >
+    <image
+      x="5"
+      y="3"
+      width="14"
+      height="14"
+      xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNDgwIj4NCiAgPHBhdGggZmlsbD0iI2JkM2Q0NCIgZD0iTTAgMGg2NDB2NDgwSDAiPjwvcGF0aD4NCiAgPHBhdGggc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjM3IiBkPSJNMCA1NS4zaDY0ME0wIDEyOWg2NDBNMCAyMDNoNjQwTTAgMjc3aDY0ME0wIDM1MWg2NDBNMCA0MjVoNjQwIj48L3BhdGg+DQogIDxwYXRoIGZpbGw9IiMxOTJmNWQiIGQ9Ik0wIDBoMzY0Ljh2MjU4LjVIMCI+PC9wYXRoPg0KICA8bWFya2VyIGlkPSJ1cy1hIiBtYXJrZXJIZWlnaHQ9IjMwIiBtYXJrZXJXaWR0aD0iMzAiPg0KICAgIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Im0xNCAwIDkgMjdMMCAxMGgyOEw1IDI3eiI+PC9wYXRoPg0KICA8L21hcmtlcj4NCiAgPHBhdGggZmlsbD0ibm9uZSIgbWFya2VyLW1pZD0idXJsKCN1cy1hKSIgZD0ibTAgMCAxNiAxMWg2MSA2MSA2MSA2MSA2MEw0NyAzN2g2MSA2MSA2MCA2MUwxNiA2M2g2MSA2MSA2MSA2MSA2MEw0NyA4OWg2MSA2MSA2MCA2MUwxNiAxMTVoNjEgNjEgNjEgNjEgNjBMNDcgMTQxaDYxIDYxIDYwIDYxTDE2IDE2Nmg2MSA2MSA2MSA2MSA2MEw0NyAxOTJoNjEgNjEgNjAgNjFMMTYgMjE4aDYxIDYxIDYxIDYxIDYwTDAgMCI+PC9wYXRoPg0KPC9zdmc+"
+    />
+
+    <text
+      aria-hidden="true"
+      x="295"
+      y="150"
+      fill="#010101"
+      fill-opacity=".3"
+      transform="scale(.1)"
+      textLength="130"
+    >
+      en
+    </text>
+    <text
+      x="295"
+      y="140"
+      transform="scale(.1)"
+      fill="#fff"
+      textLength="130"
+    >
+      en
+    </text>
+  </g>
+</svg>
