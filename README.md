@@ -10,7 +10,7 @@
 <p
   align="center"
 >
-  I hold a degree in System Analysis and Development from Fatec São Caetano do Sul, and currently, I am immersed in the world of FullStack development.
+  I graduated in System Analysis and Development at Fatec São Caetano do Sul and completed post-graduation in Game Development at Unopar. I have some experience working with FullStack development but, currently, I'm looking for an oportunity in the gaming industry.
 </p>
 
 <span align="center">
