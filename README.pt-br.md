@@ -10,7 +10,7 @@
 <p
   align="center"
 >
-  Sou graduado em Análise e Desenvolvimento de Sistemas pela Fatec São Caetano do Sul e pós-graduado em Desenvolvimento de Games pela Unopar. Tenho experiência trabalhando com desenvolvimento FullStack porém, atualmente, busco uma oportunidade na área de jogos.
+  Sou graduado em Análise e Desenvolvimento de Sistemas pela Fatec São Caetano do Sul e tenho experiência com desenvolvimento FullStack, usando principalmente TypeScript e JavaScript como linguagens de programação, Vue e Angular no desenvolvimento Frontend e NodeJS, NestJS e MySQL no Backend.
 </p>
 
 <span align="center">
