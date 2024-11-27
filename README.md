@@ -10,7 +10,7 @@
 <p
   align="center"
 >
-  I graduated in System Analysis and Development at Fatec São Caetano do Sul and completed post-graduation in Game Development at Unopar. I have some experience working with FullStack development but, currently, I'm looking for an oportunity in the gaming industry.
+  I graduated in System Analysis and Development at Fatec São Caetano do Sul and have some experience with FullStack development, using primarily TypeScript and JavaScript as programming languages, Vue and Angular for Frontend development and NodeJS with NestJS and MySQL for Backend.
 </p>
 
 <span align="center">
